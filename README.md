@@ -1,2 +1,2 @@
 # recursion-review
-This is a project I completed as a student at [hackreactor](http://hackreactor.com).
+This is a project I completed in preparation for [hackreactor](http://hackreactor.com).
